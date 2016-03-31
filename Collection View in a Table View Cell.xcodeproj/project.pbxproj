@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		05D212D11CAD365B0048A256 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05D212D01CAD365B0048A256 /* CollectionViewCell.swift */; };
 		5EC197A91BE90648006F33C7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC197A81BE90648006F33C7 /* AppDelegate.swift */; };
 		5EC197AB1BE90648006F33C7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC197AA1BE90648006F33C7 /* ViewController.swift */; };
 		5EC197AE1BE90648006F33C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5EC197AC1BE90648006F33C7 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		05D212D01CAD365B0048A256 /* CollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		5EC197A51BE90648006F33C7 /* Collection View in a Table View Cell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Collection View in a Table View Cell.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EC197A81BE90648006F33C7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5EC197AA1BE90648006F33C7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 		5EC197A71BE90648006F33C7 /* Table View in a Collection View */ = {
 			isa = PBXGroup;
 			children = (
+				05D212D01CAD365B0048A256 /* CollectionViewCell.swift */,
 				5EC197A81BE90648006F33C7 /* AppDelegate.swift */,
 				5EC197AA1BE90648006F33C7 /* ViewController.swift */,
 				5EC197BA1BE90736006F33C7 /* TableViewCell.swift */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				05D212D11CAD365B0048A256 /* CollectionViewCell.swift in Sources */,
 				5EC197BB1BE90736006F33C7 /* TableViewCell.swift in Sources */,
 				5EC197AB1BE90648006F33C7 /* ViewController.swift in Sources */,
 				5EC197A91BE90648006F33C7 /* AppDelegate.swift in Sources */,

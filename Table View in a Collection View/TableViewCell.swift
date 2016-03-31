@@ -3,6 +3,7 @@ import UIKit
 class TableViewCell: UITableViewCell {
 
     @IBOutlet private weak var collectionView: UICollectionView!
+    @IBOutlet weak var cellTitle: UILabel!
 
 }
 
